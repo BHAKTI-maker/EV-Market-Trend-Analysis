@@ -1,4 +1,4 @@
-# EV-Market-Trend-Analysis
+# Electric Vehicle Market Performance & Insights
 ## Project Overview
 This Capstone Project delivers an end-to-end business intelligence and data analytics solution focused on the global Electric Vehicle (EV) industry. The project examines critical industry dynamics, including annual sales trajectories, manufacturer market share, battery chemistry adoption, driving range efficiencies, pricing models, and consumer sentiment across diverse vehicle categories.
 
